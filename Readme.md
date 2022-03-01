@@ -49,15 +49,15 @@
 ==============================================================
 # Challenge yourself!:
 ## This is a list of websites you can take codding challenges and practice problems.
-1. [HackerRank 🚀](hackerrank.com)
-2. [CodeWars🚀](https://codewars.com)
-3. [Coderbytes Enterprise 🚀](https://coderbyte.com)
-4. [Topcoder 🚀](https://topcoder.com)
-5. [CodeChef 🚀](https://codechef.com)
-6. [LeetCode🚀](https://leetcode.com)
-7. [CodinGame 🚀](https://codingame.com)
-8. [Codeforces 🚀](https://codeforces.com)
-9. [Project Euler 🚀](https://projecteuler.net)
-10. [Exercism 🚀](https://exercism.org)
-11. [SPOJ 🚀](https://spoj.com)
+1. [HackerRank 🚀](https://www.hackerrank.com)
+2. [CodeWars🚀](https://www.codewars.com)
+3. [Coderbytes Enterprise 🚀](https://www.coderbyte.com)
+4. [Topcoder 🚀](https://www.topcoder.com)
+5. [CodeChef 🚀](https://www.codechef.com)
+6. [LeetCode🚀](https://www.leetcode.com)
+7. [CodinGame 🚀](https://www.codingame.com)
+8. [Codeforces 🚀](https://www.codeforces.com)
+9. [Project Euler 🚀](https://www.projecteuler.net)
+10. [Exercism 🚀](https://www.exercism.org)
+11. [SPOJ 🚀](https://www.spoj.com)
 *  *ps: No criteria was considered in making the list above.**
