@@ -57,7 +57,7 @@
 6. [LeetCode🚀](https://www.leetcode.com)
 7. [CodinGame 🚀](https://www.codingame.com)
 8. [Codeforces 🚀](https://www.codeforces.com)
-9. [Project Euler 🚀](https://www.projecteuler.net)
+9. [Project Euler 🚀 This is more of math!](https://www.projecteuler.net)
 10. [Exercism 🚀](https://www.exercism.org)
 11. [SPOJ 🚀](https://www.spoj.com)
 *  *ps: No criteria was considered in making the list above.**
