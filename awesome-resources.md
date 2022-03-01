@@ -1,4 +1,4 @@
-#List of Awesome resources for every Developer!
+# List of Awesome resources for every Developer!
 
 1. ### Computer science <br>
   -- [Computer Science 🚀 ](https://github.com/Developer-Y/cs-video-courses)
@@ -45,7 +45,7 @@
 14. ### ALL  Popular  web Frameworks List
   -- [Link to ALL  Popular  web Frameworks List 🚀🚀 ](https://github.com/the-benchmarker/web-frameworks)
 
-## Make a pull request to add more lists.
+## Make a pull request to add more Items
 ==============================================================
 # Challenge yourself!:
 ## This is a list of websites you can take codding challenges and practice problems.
