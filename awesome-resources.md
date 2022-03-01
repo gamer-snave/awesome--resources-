@@ -1,6 +1,6 @@
 List of Awesome resources for every Developer!
 
-1. ###Computer science <br>
+1. ### Computer science <br>
 [Link](https://github.com/Developer-Y/cs-video-courses)
 
 2. ###Software Engineering
