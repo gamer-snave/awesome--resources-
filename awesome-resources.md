@@ -1,10 +1,10 @@
-List of Awesome resources for every Developer!
+#List of Awesome resources for every Developer!
 
 1. ### Computer science <br>
-[Link](https://github.com/Developer-Y/cs-video-courses)
+  -- [Link](https://github.com/Developer-Y/cs-video-courses)
 
 2. ### Software Engineering
-[Software Engineering🚀](https://github.com/jwasham/coding-interview-university)
+  -- [Software Engineering🚀](https://github.com/jwasham/coding-interview-university)
 
 3. ### Machine Learning
   -- [Machine Learning 🚀](https://i.am.ai/roadmap/#%F0%9F%9A%A6-wrap-up)
@@ -33,7 +33,7 @@ List of Awesome resources for every Developer!
 11. ### Projects 
   -- [Link to Projects ](https://github.com/karan/Projects)
 
-12.  ###Free Public APIs 
+12.  ### Free Public APIs 
   -- [Take a look](https://github.com/public-apis/public-apis)
 
 13. ### Papers We Love 
@@ -60,4 +60,4 @@ List of Awesome resources for every Developer!
 9. [Project Euler](https://projecteuler.net)
 10. [Exercism](https://exercism.org)
 11. [SPOJ](https://spoj.com)
-** ps: No criteria was considered in making the list above. **
+*  *ps: No criteria was considered in making the list above.**
