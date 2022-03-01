@@ -3,25 +3,25 @@ List of Awesome resources for every Developer!
 1. ### Computer science <br>
 [Link](https://github.com/Developer-Y/cs-video-courses)
 
-2. ###Software Engineering
+2. ### Software Engineering
 [Link](https://github.com/jwasham/coding-interview-university)
 
-3. ###Machine Learning
+3. ### Machine Learning
 [Link](https://i.am.ai/roadmap/#%F0%9F%9A%A6-wrap-up)
 
-4. ###All programming Languages books
+4. ### All programming Languages books
 [Link](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 
-5. ###Project based Tutorials
+5. ### Project based Tutorials
 [Link](https://github.com/practical-tutorials/project-based-learning)
 
-6. ###Awesome Beginner Friendly Projects
+6. ### Awesome Beginner Friendly Projects
 [Link](https://github.com/MunGell/awesome-for-beginners)
 
-7. ###Road Map to becoming a Developer
+7. ### Road Map to becoming a Developer
 [Link](https://github.com/kamranahmedse/developer-roadmap)
 
-8. ###AI- Roadmap
+8. ### AI- Roadmap
 [Link](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
 9. ###Data Science 
@@ -30,20 +30,20 @@ List of Awesome resources for every Developer!
 10. ###Web Development for Beginners
 [Link](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-11. ###Projects 
+11. ### Projects 
 [Link](https://github.com/karan/Projects)
 
 12.  ###Free Public APIs 
 [Link](https://github.com/public-apis/public-apis)
 
-13. ###Papers We Love 
+13. ### Papers We Love 
 [Link](https://github.com/papers-we-love/papers-we-love)
 
-13. ###Front End Checklist.
+13. ### Front End Checklist.
 [Link](https://github.com/thedaviddias/Front-End-Checklist)
 
-14. ###ALL  Popular  web Frameworks List
-[Link](https://github.com/the-benchmarker/web-frameworks)
+14. ### ALL  Popular  web Frameworks List
+[Link to ALL  Popular  web Frameworks List ](https://github.com/the-benchmarker/web-frameworks)
 
 #Make a pull request to add more lists.
 ==============================================================
